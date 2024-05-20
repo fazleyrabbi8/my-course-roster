@@ -1,0 +1,7 @@
+.Course_names  li {
+
+
+    list-style-type: number ;
+    list-style-position: initial;
+    text-align: center;
+}
