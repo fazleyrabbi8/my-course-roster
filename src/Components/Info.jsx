@@ -1,6 +1,6 @@
 
 import PropTypes from 'prop-types';
-import '/Projects/my-course-roster/src/Components/Info.css'
+import './Info.css'
 
 const Info = ({ availableCredit ,takenCourses ,totalCredithour }) => {
 
@@ -38,7 +38,8 @@ const Info = ({ availableCredit ,takenCourses ,totalCredithour }) => {
 
 Info.propTypes = {
     availableCredit: PropTypes.array,
-    takenCourses :PropTypes.array
+    takenCourses :PropTypes.array ,
+    totalCredithour : PropTypes.number 
 };
 
 export default Info;

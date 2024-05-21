@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "cover_photo": "https://images2.imgbox.com/d0/bb/nU5J74ph_o.png",
+        "title": "Introduction to C Programming",
+        "description": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": 29.99,
+        "credit_time": 1
+    },
+    {
+        "id": 2,
+        "cover_photo": "https://images2.imgbox.com/68/e0/21iSwMEl_o.png",
+        "title": "Introduction to Algorithms",
+        "description": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": 34.99,
+        "credit_time": 6
+    },
+    {
+        "id": 3,
+        "cover_photo": "https://images2.imgbox.com/ad/5b/BcxCyETa_o.png",
+        "title": "Introduction to C++ for DSA",
+        "description": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": 39.99,
+        "credit_time": 4
+    },
+    {
+        "id": 4,
+        "cover_photo": "https://images2.imgbox.com/74/2e/05bZMqRj_o.png",
+        "title": "Basic Data Structures",
+        "description": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": 49.99,
+        "credit_time": 6
+    },
+    {
+        "id": 5,
+        "cover_photo": "https://images2.imgbox.com/50/5d/VKqk1ioA_o.png",
+        "title": "Introduction to OOP Python",
+        "description": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": 59.99,
+        "credit_time": 8
+    },
+    {
+        "id": 6,
+        "cover_photo": "https://images2.imgbox.com/7b/89/C3YSRSLt_o.png",
+        "title": "Software Engineering",
+        "description": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": 44.99,
+        "credit_time": 5
+    },
+    {
+        "id": 7,
+        "cover_photo": "https://images2.imgbox.com/de/b4/kbfI7UfG_o.png",
+        "title": "AWS, Cloud Computing",
+        "description": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": 54.99,
+        "credit_time": 7
+    },
+    {
+        "id": 8,
+        "cover_photo": "https://images2.imgbox.com/3a/b8/oJXFqJXV_o.png",
+        "title": "Database (MySQL)",
+        "description": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": 24.99,
+        "credit_time": 3
+    },
+    {
+        "id": 9,
+        "cover_photo": "https://images2.imgbox.com/78/e1/JsQDD8Pf_o.png",
+        "title": "Problem Solving",
+        "description": "It is a long-established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+        "price": 39.99,
+        "credit_time": 4
+    }
+]
